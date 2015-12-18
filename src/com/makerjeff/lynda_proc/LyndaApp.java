@@ -1,7 +1,5 @@
 package com.makerjeff.lynda_proc;
 
-import com.sun.xml.internal.org.jvnet.fastinfoset.VocabularyApplicationData;
-
 import processing.core.*;
 
 public class LyndaApp extends PApplet {

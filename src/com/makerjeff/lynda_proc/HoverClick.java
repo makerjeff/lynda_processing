@@ -1,7 +1,5 @@
 package com.makerjeff.lynda_proc;
 
-import com.jogamp.newt.event.KeyEvent;
-
 import processing.core.*;
 
 
